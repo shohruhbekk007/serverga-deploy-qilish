@@ -1,5 +1,5 @@
 Django-Template
-
+Joylash
 Python Django Template
 Django Frameworkida qilingan loyihamizni Debian/Ubuntu 20.04 serveriga joylash, PostgreSQL, Nginx, Gunicorn paketlarini sozlash va ishga tushurish
 
